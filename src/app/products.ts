@@ -8,21 +8,21 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'Nike Air Force 1s',
+    price: 110,
+    description: 'The basketball OG shoes that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.'
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'Adidas Basketball Hoodie',
+    price: 90,
+    description: 'New fashion in Adidas basketball collection. Made from a blend of cotton and polyester fabric'
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
+    name: 'AE Cargo Jogger Pants',
+    price: 60,
+    description: 'Jogger pants made for anywhere with a cargo twist '
   }
 ];
 
